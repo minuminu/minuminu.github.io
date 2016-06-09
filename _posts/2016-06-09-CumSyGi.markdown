@@ -20,7 +20,7 @@
 
 ##2) 시스템 구조
 
- ![Alt text](/noname01.jpg)
+ ![img](./_posts/noname01.jpg)
 
 ##3) 시스템의 기능
 	
