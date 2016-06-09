@@ -20,7 +20,7 @@
 
 ##2) 시스템 구조
 
- ![img](./img/noname01.jpg)
+ ![img](/noname01.jpg)
 
 ##3) 시스템의 기능
 	
