@@ -6,7 +6,7 @@
 
 #2. 요구사항을 만족하기 위한 핵심 아이디어 / 전체 시스템 구조
 
-    ![img](http://coresos.phinf.naver.net/a/2h523i_c/3a9Ud015x96rt0wjjpvc_l5anpv.jpg?type=e1280)
+    ![img](http://coresos.phinf.naver.net/a/2h523i_c/3a9Ud015x96rt0wjjpvc_l5anpv.jpg)
 
 #3. 동일한 문제 혹은 유사한 문제를 해결하고자 한 기존의 방법/제품/서비스/시스템 조사
     
