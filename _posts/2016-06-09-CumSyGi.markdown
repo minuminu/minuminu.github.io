@@ -82,6 +82,19 @@ X | 남아있는 캔 양 확인 가능, 캔의 양이 부족할 시 메세지로
 
  
 ##5) 각 시스템 기능 별 시스템 구성 요소 간의 동작 흐름
-![img](/img/KakaoTalk_20160613_091438993.jpg)
+![1](/img/KakaoTalk_20160613_091438993.jpg)
+![2](/img/KakaoTalk_20160613_091440724.jpg)
+![3-1](/img/KakaoTalk_20160613_091440854.jpg)
+![3-2](/img/KakaoTalk_20160613_091439503.jpg)
+![3-3](/img/KakaoTalk_20160613_091439561.jpg)
+![4](/img/KakaoTalk_20160613_091439556.jpg)
+![5](/img/KakaoTalk_20160613_091439435.jpg)
+![6](/img/KakaoTalk_20160613_091439664.jpg)
+![7](/img/KakaoTalk_20160613_091439944.jpg)
+![8](/img/KakaoTalk_20160613_091439801.jpg)
+
+
+
+
 
 
